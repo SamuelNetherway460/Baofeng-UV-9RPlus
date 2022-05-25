@@ -1,6 +1,7 @@
 # Baofeng-UV-9RPlus
 
 ![version](https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-9RPlus?sort=semver)
+![release-date](https://img.shields.io/github/release-date/SamuelNetherway460/Baofeng-UV-9RPlus)
 ![issues](https://img.shields.io/github/issues/SamuelNetherway460/Baofeng-UV-9RPlus)
 ![downloads](https://img.shields.io/github/downloads/SamuelNetherway460/Baofeng-UV-9RPlus/total)
 
