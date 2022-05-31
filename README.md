@@ -14,11 +14,14 @@
 
 ## Configuration Status
 | Configuration | Last Commit | Latest Release | Release Date |
-| ------------- | ----------- | -------------- | ------------ |
+| :---: | :---: | :---: | :---: |
 | Foundation    | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus/Config-Foundation) | ![version](https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-9RPlus?sort=semver) | ![release-date](https://img.shields.io/github/release-date/SamuelNetherway460/Baofeng-UV-9RPlus) |
 | PMR446        | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus/Config-PMR446) | ![version](https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-9RPlus?sort=semver) | ![release-date](https://img.shields.io/github/release-date/SamuelNetherway460/Baofeng-UV-9RPlus) |
 
 ## Installation
+...
+
+## Radio Images
 ...
 
 
