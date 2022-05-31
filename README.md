@@ -21,7 +21,7 @@
 ## Installation
 ...
 
-## Radio Images
+## Radio Specs
 ...
 
 
