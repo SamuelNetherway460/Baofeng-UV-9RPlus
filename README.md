@@ -10,7 +10,7 @@
 </p>
 
 ## Description
-Repository for the Baofeng UV-9R Plus / Pro digital radio. Contains / links to all documents relating to the radio i.e., specs, manuals, etc. There are 3 different configurations for HAM radio each in a different branch named after the privilages / frequencies programmed, i.e., PMR446 (licence free), Foundation (UK licenced), Intermediate (UK Licenced) and full (UK Licenced).
+Repository for the Baofeng UV-9R Plus / Pro digital radio. Contains all documents relating to the radio i.e., specs, manuals, etc. There are 3 different configurations for HAM radio each in a different branch named after the privilages / frequencies programmed, i.e., PMR446 (licence free), Foundation (UK licenced), Intermediate (UK Licenced) and full (UK Licenced).
 
 ## Configuration Status
 | Configuration | Last Commit | Latest Release | Release Date |
