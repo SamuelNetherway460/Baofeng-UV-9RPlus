@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus">
-  <img src="https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-9RPlus?sort=semver">
+  <img src="https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-9RPlus">
   <img src="https://img.shields.io/github/release-date/SamuelNetherway460/Baofeng-UV-9RPlus">
   <img src="https://img.shields.io/github/issues/SamuelNetherway460/Baofeng-UV-9RPlus">
   <img src="https://img.shields.io/github/downloads/SamuelNetherway460/Baofeng-UV-9RPlus/total">
@@ -15,10 +15,10 @@ Repository for the Baofeng UV-9R Plus / Pro digital radio. Contains all document
 ## Configuration Status
 | Configuration | Last Commit | Latest Release | Release Date |
 | :---: | :---: | :---: | :---: |
-| PMR446        | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus/Config-PMR446) | ![version](https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-9RPlus?sort=semver) | ![release-date](https://img.shields.io/github/release-date/SamuelNetherway460/Baofeng-UV-9RPlus) |
-| Foundation    | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus/Config-Foundation) | ![version](https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-9RPlus?sort=semver) | ![release-date](https://img.shields.io/github/release-date/SamuelNetherway460/Baofeng-UV-9RPlus) |
-| Intermediate  | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus/Config-Intermediate) | ![version](https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-9RPlus?sort=semver) | ![release-date](https://img.shields.io/github/release-date/SamuelNetherway460/Baofeng-UV-9RPlus) |
-| Full          | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus/Config-Full) | ![version](https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-9RPlus?sort=semver) | ![release-date](https://img.shields.io/github/release-date/SamuelNetherway460/Baofeng-UV-9RPlus) |
+| PMR446        | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus/Config-PMR446) | ![version](https://img.shields.io/github/v/release/SamuelNetherway460/Baofeng-UV-9RPlus) | ![release-date](https://img.shields.io/badge/release%20date-06--06--2022-brightgreen) |
+| Foundation    | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus/Config-Foundation) | ![version](https://img.shields.io/badge/release-Foundation--vX.X.X-blue) | ![release-date](https://img.shields.io/badge/release%20date-XX--XX--XXXX-red) |
+| Intermediate  | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus/Config-Intermediate) | ![version](https://img.shields.io/badge/release-Intermediate--vX.X.X-blue) | ![release-date](https://img.shields.io/badge/release%20date-XX--XX--XXXX-red) |
+| Full          | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus/Config-Full) | ![version](https://img.shields.io/badge/release-Full--vX.X.X-blue) | ![release-date](https://img.shields.io/badge/release%20date-XX--XX--XXXX-red) |
 
 ## Installation
 TO BE COMPLETED ONCE A RELEASE HAS BEEN GENERATED.
