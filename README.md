@@ -20,19 +20,6 @@ Repository for the Baofeng UV-9R Plus / Pro digital radio. Contains all document
 | Intermediate  | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus/Config-Intermediate) | ![version](https://img.shields.io/badge/release-Intermediate--vX.X.X-blue) | ![release-date](https://img.shields.io/badge/release%20date-XX--XX--XXXX-red) |
 | Full          | ![last-commit](https://img.shields.io/github/last-commit/SamuelNetherway460/Baofeng-UV-9RPlus/Config-Full) | ![version](https://img.shields.io/badge/release-Full--vX.X.X-blue) | ![release-date](https://img.shields.io/badge/release%20date-XX--XX--XXXX-red) |
 
-## Installation
-1. Download and install [Chirp](https://chirp.danplanet.com/projects/chirp/wiki/Home).
-2. Download the source / radio images from the [Releases](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/releases) page.
-3. Launch Chirp.
-4. Connect the Baofeng UV-9RPlus to the PC using the USB programming cable.
-5. Connect to the radio in Chirp selecting the correct communication port.
-6. Click "Download from Radio" and save a backup .img file.
-7. Open the .img file contained within the release.
-8. Click "Upload to Radio".
-9. Turn off the radio.
-10. Disconnect the radio from the PC and USB programming cable.
-11. Turn on the radio and check that the radio image has been correctly uploaded.
-
 ## Radio Specs
 - Output : 8W(H)/4W(M)/1W(L)
 - Frequency Range: VHF 136.00-174.00 MHz / UHF 400.00-520.00MHz
@@ -58,3 +45,44 @@ Repository for the Baofeng UV-9R Plus / Pro digital radio. Contains all document
 - Relay Forwarding Confirmed (1750 HZ)
 - Low Battery Warning
 - U/V Cross Band Dual Watch
+
+## Chirp Radio Programming Guide
+1. Download and install [Chirp](https://chirp.danplanet.com/projects/chirp/wiki/Home).
+2. Download the source / radio images from the [Releases](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/releases) page.
+3. Launch Chirp.  
+![Chirp Launched](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Chirp%20Launched.png)
+4. Connect the Baofeng UV-9RPlus to the PC using the USB programming cable.
+5. Turn on the radio.
+6. In the menu bar, click "Radio" and then "Download From Radio".  
+![Download From Radio](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Download%20From%20Radio.png)
+7. Select the correct Port, Vendor and Model using the drop down boxes.
+8. Click "Ok".
+9. Click "Ok".  
+![Baofeng UV-5R Instructions](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Baofeng%20UV-5R%20Instructions.png)
+10. Wait for Chrip to finish cloning the current radio programming.  
+![Cloning Programming](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Cloning%20Programming.png)  
+    The current programming will then be displayed.  
+![Current Programming](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Current%20Programming.png)
+11. In the menu bar, click "File", then "Save As".  
+![Save Backup](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Save%20Backup.png)
+12. Navigate the File Explorer and click "Save" to save a backup of the current radio configuration.  
+![Save Radio Image](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Save%20Radio%20Image.png)
+13. In the menu bar, click "File", then "Open".  
+![Open Radio Image File Menu Bar](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Open%20Radio%20Image%20File%20Menu%20Bar.png)
+14. Navigate the File Explorer and select the Radio .img file.  
+![Navigate to Radio Image File](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Navigate%20to%20Radio%20Image%20File.png)
+15. Click "Open".  
+![Open Radio Image File](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Open%20Radio%20Image%20File.png)  
+The radio image file should now be loaded.  
+![Radio Image File Loaded](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Radio%20Image%20File%20Loaded.png)
+16. Custom configurations such as welcome messages should now be made.
+17. Once ready to upload to radio, in the menu bar click "Radio", then "Upload To Radio".  
+![Upload to Radio](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Upload%20to%20Radio.png)
+18. Select the correct Port and click "Ok".  
+![Select Port](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Select%20Port.png)
+19. Click "Ok" when the instructions are displayed.  
+![Baofeng UV-5R Upload Instructions](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Baofeng%20UV-5R%20Upload%20Instructions.png)
+21. The radio image file will now be applied to the radio.  
+![Uploading to Radio](https://github.com/SamuelNetherway460/Baofeng-UV-9RPlus/blob/Documentation/res/Uploading%20to%20Radio.png)
+23. Once the radio light has finished flashing, and the progress bar is complete / progress window has disappeared, the radio can be switched off and disconnected.
+24. Radio programming is now complete and the radio is ready to be used.
